@@ -92,7 +92,8 @@
               style="padding-left: 2.5rem; padding-right: 2.5rem;">Login</button>
             {{-- <p class="small fw-bold mt-2 pt-1 mb-0">Don't have an account? <a href="#!"
                 class="link-danger">Register</a></p> --}}
-          </div>
+          </div><br>
+        <p><span class="badge badge-danger">Data username dan password</span><br/>admin - 12345<br/>kasir - 12345<br/>s_admin - 12345</p>
 
         </form>
       </div>
